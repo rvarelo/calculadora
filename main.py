@@ -1,3 +1,4 @@
+#alterado no github
 from tkinter import *
 
 root = Tk()
