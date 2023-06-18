@@ -1,5 +1,5 @@
 #alterado no github
-#alterado no VSCODE
+#alterado no VSCODE Studio
 from tkinter import *
 
 root = Tk()
